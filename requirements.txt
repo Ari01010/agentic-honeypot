@@ -1,1 +1,8 @@
+Libraries/Modules :
+
+fastapi
+uvicorn
+requests
+python-dotenv
+openai
 
